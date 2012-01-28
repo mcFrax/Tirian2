@@ -1,0 +1,11 @@
+classes and types:
+    Callbacks
+    Widget (and derives)
+    Engine
+    Event
+    RepeatingEvent
+    FontRenderer (and derives)
+    Mouse
+    RandomGenerator
+    Keyboard? (for buffer handling?)
+    

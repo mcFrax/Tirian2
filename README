@@ -1,0 +1,1 @@
+This is complete rewrite of Tirian library. It's aim is to deliver light and easy to use API for creating OpenGL applications with simple, widget-based interface. It is going to use as few and as universal libraries as it is possible. Especially, it is going to drop SDL usage in favour to use GLX and WGL for context creation and font display.

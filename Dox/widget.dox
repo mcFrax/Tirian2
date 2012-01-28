@@ -1,0 +1,29 @@
+/*!
+\file widget.hpp
+Widget class declaration.
+*/
+
+/*!
+\file widget.cpp
+Widget class implementation.
+*/
+
+/*!
+\class WidgetObj
+Base widget instance class.
+
+This is base class for any widget.
+*/
+
+/*!
+\class Widget
+Widget handle class.
+
+Privide pointer-like acces to WidgetObj objects and widget validity checking.
+Widgets should be accessed only throught this class.
+*/
+
+/*!
+\function Widget::operator bool()
+Checks if the handle is non-null and if the pointed instance still exists.
+*/
